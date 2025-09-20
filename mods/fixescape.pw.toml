@@ -1,0 +1,13 @@
+name = "FixEscape"
+filename = "fixescape-1.19_to_1.20.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fsMVKJSe/versions/Az3ZmSEb/fixescape-1.19_to_1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "d2494b7e0d3c1c45836609a11b05bf378510201fbd9371671846180061714e186c21e883e3a202950c1c7a522a85e491cfe3d3d964d1ea08812755a7e6d7344a"
+
+[update]
+[update.modrinth]
+mod-id = "fsMVKJSe"
+version = "Az3ZmSEb"

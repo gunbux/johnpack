@@ -1,0 +1,13 @@
+name = "Serene Shrubbery"
+filename = "SereneShrubbery-Forge-1.20.1-v2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8nNCA6Vy/versions/kpkPckuF/SereneShrubbery-Forge-1.20.1-v2.2.0.jar"
+hash-format = "sha512"
+hash = "0599d98ca6743f81a0d8ab723b0d0dd386cc8399706a8781d88e4ca299fc037e27abe5d2760e2d211604b3d562e9973d887f85ab6b457024f575af62e6ee0a4a"
+
+[update]
+[update.modrinth]
+mod-id = "8nNCA6Vy"
+version = "kpkPckuF"
