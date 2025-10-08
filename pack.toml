@@ -1,12 +1,12 @@
 name = "johnpack"
 author = "gunbux"
-version = "0.0.2"
+version = "0.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fc5b91a1af80a584a4d109eb4f4c43ba6d937e4556c3d1ca8ae7f9c14c824d28"
+hash = "aa7930f38c3f47aadf404c0e6b7810b1f97b1f33eba7a9b469638cb3621f879b"
 
 [versions]
 minecraft = "1.20.1"
